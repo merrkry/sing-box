@@ -141,3 +141,4 @@ require (
 )
 
 //replace github.com/sagernet/sing => ../sing
+replace github.com/sagernet/sing-mux v0.3.1 => github.com/merrkry/sing-mux v0.3.2
